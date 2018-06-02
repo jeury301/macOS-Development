@@ -199,11 +199,14 @@
                             <popUpButton verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="H9x-Af-1dT">
                                 <rect key="frame" x="18" y="145" width="381" height="26"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                                <popUpButtonCell key="cell" type="push" title="For custardy yet firm soft-boiled eggs: 6 minutes" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" state="on" borderStyle="borderAndBezel" tag="6" imageScaling="proportionallyDown" inset="2" selectedItem="2U4-FQ-tA4" id="hc2-Ii-33q">
+                                <popUpButtonCell key="cell" type="push" title="For scrambled eggs (fast crack): 1 minute" bezelStyle="rounded" alignment="left" lineBreakMode="truncatingTail" borderStyle="borderAndBezel" tag="1" imageScaling="proportionallyDown" inset="2" selectedItem="gQq-yH-Fp6" id="hc2-Ii-33q">
                                     <behavior key="behavior" lightByBackground="YES" lightByGray="YES"/>
                                     <font key="font" metaFont="menu"/>
                                     <menu key="menu" title="For runny soft-boiled eggs (barely set whites): 3 minutes" id="Tss-f0-6Xm">
                                         <items>
+                                            <menuItem title="For scrambled eggs (fast crack): 1 minute" tag="1" id="gQq-yH-Fp6">
+                                                <modifierMask key="keyEquivalentModifierMask"/>
+                                            </menuItem>
                                             <menuItem title="For runny soft-boiled eggs (barely set whites): 3 minutes" tag="3" id="u76-kw-xbu"/>
                                             <menuItem title="For slightly runny soft-boiled eggs: 4 minutes" tag="4" id="zQP-MS-vR2"/>
                                             <menuItem title="For custardy yet firm soft-boiled eggs: 6 minutes" state="on" tag="6" id="2U4-FQ-tA4"/>
