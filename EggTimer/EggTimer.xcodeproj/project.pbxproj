@@ -11,6 +11,7 @@
 		E32BD0F720C0E2F500B355DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E32BD0F620C0E2F500B355DD /* ViewController.swift */; };
 		E32BD0F920C0E2F600B355DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E32BD0F820C0E2F600B355DD /* Assets.xcassets */; };
 		E32BD0FC20C0E2F600B355DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E32BD0FA20C0E2F600B355DD /* Main.storyboard */; };
+		E32BD10520C2EB6D00B355DD /* PrefsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E32BD10420C2EB6D00B355DD /* PrefsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		E32BD0FB20C0E2F600B355DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E32BD0FD20C0E2F600B355DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E32BD0FE20C0E2F600B355DD /* EggTimer.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = EggTimer.entitlements; sourceTree = "<group>"; };
+		E32BD10420C2EB6D00B355DD /* PrefsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrefsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				E32BD0F420C0E2F500B355DD /* AppDelegate.swift */,
 				E32BD0F620C0E2F500B355DD /* ViewController.swift */,
+				E32BD10420C2EB6D00B355DD /* PrefsViewController.swift */,
 				E32BD0F820C0E2F600B355DD /* Assets.xcassets */,
 				E32BD0FA20C0E2F600B355DD /* Main.storyboard */,
 				E32BD0FD20C0E2F600B355DD /* Info.plist */,
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E32BD0F720C0E2F500B355DD /* ViewController.swift in Sources */,
+				E32BD10520C2EB6D00B355DD /* PrefsViewController.swift in Sources */,
 				E32BD0F520C0E2F500B355DD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
