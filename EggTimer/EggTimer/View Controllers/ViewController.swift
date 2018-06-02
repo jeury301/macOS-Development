@@ -7,6 +7,7 @@
 //
 
 import Cocoa
+import AVFoundation
 
 class ViewController: NSViewController {
 
@@ -18,7 +19,8 @@ class ViewController: NSViewController {
     
     var eggTimer = EggTimer()
     var prefs = Preferences()
-    
+    var soundPlayer: AVAudioPlayer?
+
     override func viewDidLoad() {
         super.viewDidLoad()
         eggTimer.delegate = self
@@ -38,6 +40,7 @@ class ViewController: NSViewController {
             eggTimer.duration = prefs.selectedTime
             eggTimer.startTimer()
         }
+        prepareSound()
         configureButtonsAndMenus()
     }
     
@@ -62,6 +65,7 @@ extension ViewController: EggTimerProtocol {
     
     func timerHasFinished(_ timer: EggTimer) {
         updateDisplay(for: 0)
+        playSound()
     }
 }
 
@@ -137,6 +141,10 @@ extension ViewController{
         return NSImage(named: NSImage.Name(rawValue: imageName))
     }
     
+    
+}
+
+extension ViewController {
     // MARK: - Preferences
     
     func setupPrefs() {
@@ -177,5 +185,29 @@ extension ViewController{
             }
         }
     }
+}
+
+extension ViewController {
+    
+    // MARK: - Sound
+    
+    func prepareSound() {
+        guard let audioFileUrl = Bundle.main.url(forResource: "ding",
+                                                 withExtension: "mp3") else {
+                                                    return
+        }
+        
+        do {
+            soundPlayer = try AVAudioPlayer(contentsOf: audioFileUrl)
+            soundPlayer?.prepareToPlay()
+        } catch {
+            print("Sound player not available: \(error)")
+        }
+    }
+    
+    func playSound() {
+        soundPlayer?.play()
+    }
+    
 }
 
