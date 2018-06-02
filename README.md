@@ -7,16 +7,16 @@ The EggTimer allows you to see your favorite virtual egg on the making in a fun 
 ## Features
 ### Egg Transitioning with visual effects: 
 #### Your egg is starting to cook...
-![Whole Egg](/README.MD-Resources/whole_egg.png)
+![Whole Egg](/README.MD-Resources/whole_egg.png = 250x250)
 
 #### Egg is warming up... 
-![Egg 25%](/README.MD-Resources/whole_egg.png)
+![Egg 25%](/README.MD-Resources/25_%.png = 250x250)
 
 #### Egg is heating up...
-![Egg 50%](/README.MD-Resources/whole_egg.png)
+![Egg 50%](/README.MD-Resources/50_%.png = 250x250)
 
 #### Egg is sweaty...
-![Egg 75%](/README.MD-Resources/whole_egg.png)
+![Egg 75%](/README.MD-Resources/75_%.png = 250x250)
 
 #### Egg is hot and ready!
-![Egg done](/README.MD-Resources/whole_egg.png)
+![Egg done](/README.MD-Resources/100_%.png = 250x250)
