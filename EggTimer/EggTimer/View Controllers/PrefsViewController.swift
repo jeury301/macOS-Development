@@ -28,7 +28,8 @@ class PrefsViewController: NSViewController {
         }
         
         let newTimerDuration = sender.selectedTag()
-        customSlider.integerValue = newTimerDuration
+        print(sender.selectedTag())
+        customSlider.integerValue = (newTimerDuration == 15) ? newTimerDuration + 1: newTimerDuration
         showSliderValueAsText()
         customSlider.isEnabled = false
     }
@@ -64,7 +65,7 @@ class PrefsViewController: NSViewController {
         }
         
         // 4
-        customSlider.integerValue = selectedTimeInMinutes
+        customSlider.integerValue = (selectedTimeInMinutes == 15) ? selectedTimeInMinutes + 1: selectedTimeInMinutes
         showSliderValueAsText()
     }
     
@@ -76,7 +77,8 @@ class PrefsViewController: NSViewController {
     }
     
     func saveNewPrefs() {
-        prefs.selectedTime = customSlider.doubleValue * 60
+        prefs.selectedTime = floor(customSlider.doubleValue) * 60
+        print(prefs.selectedTime)
         NotificationCenter.default.post(name: Notification.Name(rawValue: "PrefsChanged"),
                                         object: nil)
     }
