@@ -2,21 +2,21 @@
 Following up a macOS development tutorial from: <a href="https://www.raywenderlich.com/151741/macos-development-beginners-part-1" title="macOS Development Tutorial" target="_blank">RayWenderLich macOS Development Tutorial</a>.
 
 # EggTimer
-The EggTimer allows you to see your favorite virtual egg on the making in a fun way! EggTimer is available for macOS. It was developed following the tutorial in the decription above.
+The EggTimer allows you to see your favorite virtual egg on the making in a fun way! EggTimer is available for macOS. It was developed following the tutorial in the decription above. Set your favorite egg-timer, and ejoy the egg-making!
 
 ## Features
 ### Egg Transitioning with visual effects: 
 #### Your egg is starting to cook...
-![Whole Egg](/README.MD-Resources/whole_egg.png =250x250)
+<img src="/README.MD-Resources/whole_egg.png" height="250" width="250" alt="Whole Egg">
 
 #### Egg is warming up... 
-![Egg 25%](/README.MD-Resources/25_%.png =250x250)
+<img src="/README.MD-Resources/whole_egg.png" height="250" width="250" alt="Egg 25%">
 
 #### Egg is heating up...
-![Egg 50%](/README.MD-Resources/50_%.png =250x250)
+<img src="/README.MD-Resources/whole_egg.png" height="250" width="250" alt="Egg 50%">
 
 #### Egg is sweaty...
-![Egg 75%](/README.MD-Resources/75_%.png =250x250)
+<img src="/README.MD-Resources/whole_egg.png" height="250" width="250" alt="Egg 75%">
 
 #### Egg is hot and ready!
-![Egg done](/README.MD-Resources/100_%.png =250x250)
+<img src="/README.MD-Resources/whole_egg.png" height="250" width="250" alt="Egg done">
