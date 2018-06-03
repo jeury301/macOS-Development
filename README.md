@@ -1,12 +1,12 @@
-<h1> macOS Development</h1>
+# macOS Development
 
-<p>Following up a macOS development tutorial from: <a href="https://www.raywenderlich.com/151741/macos-development-beginners-part-1" title="macOS Development Tutorial" target="_blank">RayWenderLich macOS Development Tutorial</a>.</p>
+> <p>Following up a macOS development tutorial from: <a href="https://www.raywenderlich.com/151741/macos-development-beginners-part-1" title="macOS Development Tutorial" target="_blank">RayWenderLich macOS Development Tutorial</a>.</p>
 
-<h1> EggTimer </h1>
+# EggTimer
 
-<p>The EggTimer allows you to see your favorite virtual egg on the making in a fun way! EggTimer is available for macOS. It was developed following the tutorial in the decription above. Set your favorite egg-timer, and ejoy the egg-making!</p>
+> <p>The EggTimer allows you to see your favorite virtual egg on the making in a fun way! EggTimer is available for macOS. It was developed following the tutorial in the decription above. Set your favorite egg-timer, and ejoy the egg-making!</p>
 
-<h2> Features</h2>
+<h1> Features</h1>
 
 <h3> Egg Transitioning with visual effects: </h3>
 
@@ -24,7 +24,7 @@
     <img src="/README.MD-Resources/75_percent.png" height="400" width="300" alt="Egg 75%">
 </p>
 
-<h4>Egg is hot and ready!</h4>
+<h4>Ding!! your egg is hot and ready!</h4>
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
