@@ -39,6 +39,7 @@
 <h3> Preferences </h3>
 
 <p >
-<img src="/README.MD-Resources/pref_1.png" height="400" width="300" alt="Preferences 1" align="left">
-<img src="/README.MD-Resources/pref_2.png" height="400" width="300" alt="Preferences 2" align="right">
+<img src="/README.MD-Resources/pref_1.png" height="400" width="300" alt="Preferences 1">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/README.MD-Resources/pref_2.png" height="400" width="300" alt="Preferences 2">
 </p>
