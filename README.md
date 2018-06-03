@@ -11,28 +11,22 @@
 <h3> Egg Transitioning with visual effects: </h3>
 
 <h4> Your egg is starting to cook...</h4>
-<p align="center">
+<p>
 <img src="/README.MD-Resources/whole_egg.png" height="400" width="300" alt="Whole Egg">
-</p>
-
-<h4>Egg is warming up...</h4>
-<p align="center">
-    <img src="/README.MD-Resources/25_percent.png" height="400" width="300" alt="Egg 25%">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="/README.MD-Resources/25_percent.png" height="400" width="300" alt="Egg 25%">
 </p>
 
 <h4>Egg is heating up...</h4>
 <p align="center">
     <img src="/README.MD-Resources/50_percent.png" height="400" width="300" alt="Egg 50%">
-</p>
-
-<h4>Egg is sweaty...</h4>
-<p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="/README.MD-Resources/75_percent.png" height="400" width="300" alt="Egg 75%">
 </p>
 
 <h4>Egg is hot and ready!</h4>
 
-<p align="center">
+<p style="padding-left: 30%">
 <img src="/README.MD-Resources/100_percent.png" height="400" width="300" alt="Egg done">
 </p>
 
