@@ -10,13 +10,13 @@ The EggTimer allows you to see your favorite virtual egg on the making in a fun 
 <img src="/README.MD-Resources/whole_egg.png" height="300" width="250" alt="Whole Egg">
 
 #### Egg is warming up... 
-<img src="/README.MD-Resources/25_%.png" height="300" width="250" alt="Egg 25%">
+<img src="/README.MD-Resources/25_percent.png" height="300" width="250" alt="Egg 25%">
 
 #### Egg is heating up...
-<img src="/README.MD-Resources/50_%.png" height="300" width="250" alt="Egg 50%">
+<img src="/README.MD-Resources/50_percent.png" height="300" width="250" alt="Egg 50%">
 
 #### Egg is sweaty...
-<img src="/README.MD-Resources/75_%.png" height="300" width="250" alt="Egg 75%">
+<img src="/README.MD-Resources/75_percent.png" height="300" width="250" alt="Egg 75%">
 
 #### Egg is hot and ready!
-<img src="/README.MD-Resources/100_%.png" height="300" width="250" alt="Egg done">
+<img src="/README.MD-Resources/100_percent.png" height="300" width="250" alt="Egg done">
