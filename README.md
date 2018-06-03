@@ -25,7 +25,7 @@
     <img src="/README.MD-Resources/50_percent.png" height="400" width="300" alt="Egg 50%">
 </p>
 
-<h4>Egg is sweaty</h4>
+<h4>Egg is sweaty...</h4>
 <p align="center">
     <img src="/README.MD-Resources/75_percent.png" height="400" width="300" alt="Egg 75%">
 </p>
@@ -34,4 +34,11 @@
 
 <p align="center">
 <img src="/README.MD-Resources/100_percent.png" height="400" width="300" alt="Egg done">
+</p>
+
+<h3> Preferences </h3>
+
+<p >
+<img src="/README.MD-Resources/pref_1.png" height="400" width="300" alt="Preferences 1" align="left">
+<img src="/README.MD-Resources/pref_2.png" height="400" width="300" alt="Preferences 2" align="right">
 </p>
