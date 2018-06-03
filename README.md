@@ -26,7 +26,9 @@
 
 <h4>Egg is hot and ready!</h4>
 
-<p align="center">
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/README.MD-Resources/100_percent.png" height="400" width="300" alt="Egg done">
 </p>
 
