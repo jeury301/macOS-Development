@@ -34,17 +34,3 @@
     <img src="/README.MD-Resources/100_percent.png" height="300" width="250" alt="Egg done">
 <div>
     
-<style>
-.col {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
