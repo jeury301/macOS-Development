@@ -18,7 +18,7 @@
 </p>
 
 <h4>Egg is heating up...</h4>
-<p align="center">
+<p>
     <img src="/README.MD-Resources/50_percent.png" height="400" width="300" alt="Egg 50%">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="/README.MD-Resources/75_percent.png" height="400" width="300" alt="Egg 75%">
@@ -26,7 +26,7 @@
 
 <h4>Egg is hot and ready!</h4>
 
-<p style="padding-left: 30%">
+<p align="center">
 <img src="/README.MD-Resources/100_percent.png" height="400" width="300" alt="Egg done">
 </p>
 
