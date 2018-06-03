@@ -6,17 +6,41 @@ The EggTimer allows you to see your favorite virtual egg on the making in a fun 
 
 ## Features
 ### Egg Transitioning with visual effects: 
-#### Your egg is starting to cook...
-<img src="/README.MD-Resources/whole_egg.png" height="300" width="250" alt="Whole Egg">
+<div class="row">
+    <div class="col">
+        <h4> Your egg is starting to cook...</h4>
+        <img src="/README.MD-Resources/whole_egg.png" height="300" width="250" alt="Whole Egg">
+    </div>
+    <div class="col">
+        <h4>Egg is warming up...</h4>
+        <img src="/README.MD-Resources/25_percent.png" height="300" width="250" alt="Egg 25%">
+    </div>
+<div>
+<div class="row">
+    <div class="col">
+        <h4>Egg is heating up...</h4>
+        <img src="/README.MD-Resources/50_percent.png" height="300" width="250" alt="Egg 50%">
+    </div>
+    <div class="col">
+        <h4>Egg is sweaty<h4>
+        <img src="/README.MD-Resources/75_percent.png" height="300" width="250" alt="Egg 75%">
+    </div>
+<div class="row">
+    <h4>Egg is hot and ready!</h4>
+    <img src="/README.MD-Resources/100_percent.png" height="300" width="250" alt="Egg done">
+<div>
+    
+<style>
+.col {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
 
-#### Egg is warming up... 
-<img src="/README.MD-Resources/25_percent.png" height="300" width="250" alt="Egg 25%">
-
-#### Egg is heating up...
-<img src="/README.MD-Resources/50_percent.png" height="300" width="250" alt="Egg 50%">
-
-#### Egg is sweaty...
-<img src="/README.MD-Resources/75_percent.png" height="300" width="250" alt="Egg 75%">
-
-#### Egg is hot and ready!
-<img src="/README.MD-Resources/100_percent.png" height="300" width="250" alt="Egg done">
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
