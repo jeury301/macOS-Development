@@ -1,11 +1,12 @@
-# macOS Development
-Following up a macOS development tutorial from: <a href="https://www.raywenderlich.com/151741/macos-development-beginners-part-1" title="macOS Development Tutorial" target="_blank">RayWenderLich macOS Development Tutorial</a>.
+<h1> macOS Development</h1>
 
-# EggTimer
-The EggTimer allows you to see your favorite virtual egg on the making in a fun way! EggTimer is available for macOS. It was developed following the tutorial in the decription above. Set your favorite egg-timer, and ejoy the egg-making!
+<p>Following up a macOS development tutorial from: <a href="https://www.raywenderlich.com/151741/macos-development-beginners-part-1" title="macOS Development Tutorial" target="_blank">RayWenderLich macOS Development Tutorial</a>.</p>
 
-## Features
-### Egg Transitioning with visual effects: 
+<h1> EggTimer </h1>
+<p>The EggTimer allows you to see your favorite virtual egg on the making in a fun way! EggTimer is available for macOS. It was developed following the tutorial in the decription above. Set your favorite egg-timer, and ejoy the egg-making!</p>
+
+<h2> Features</h2>
+<h3> Egg Transitioning with visual effects: </h3>
 <div class="row">
     <div class="col">
         <h4> Your egg is starting to cook...</h4>
