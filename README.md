@@ -12,26 +12,26 @@
 
 <h4> Your egg is starting to cook...</h4>
 <p align="center">
-<img src="/README.MD-Resources/whole_egg.png" height="350" width="300" alt="Whole Egg">
+<img src="/README.MD-Resources/whole_egg.png" height="400" width="300" alt="Whole Egg">
 </p>
 
 <h4>Egg is warming up...</h4>
 <p align="center">
-    <img src="/README.MD-Resources/25_percent.png" height="350" width="300" alt="Egg 25%">
+    <img src="/README.MD-Resources/25_percent.png" height="400" width="300" alt="Egg 25%">
 </p>
 
 <h4>Egg is heating up...</h4>
 <p align="center">
-    <img src="/README.MD-Resources/50_percent.png" height="350" width="300" alt="Egg 50%">
+    <img src="/README.MD-Resources/50_percent.png" height="400" width="300" alt="Egg 50%">
 </p>
 
 <h4>Egg is sweaty</h4>
 <p align="center">
-    <img src="/README.MD-Resources/75_percent.png" height="350" width="300" alt="Egg 75%">
+    <img src="/README.MD-Resources/75_percent.png" height="400" width="300" alt="Egg 75%">
 </p>
 
 <h4>Egg is hot and ready!</h4>
 
 <p align="center">
-<img src="/README.MD-Resources/100_percent.png" height="350" width="300" alt="Egg done">
+<img src="/README.MD-Resources/100_percent.png" height="400" width="300" alt="Egg done">
 </p>
