@@ -8,21 +8,21 @@
 <h2> Features</h2>
 <h3> Egg Transitioning with visual effects: </h3>
 <div class="row">
-    <div class="col">
+    <div class="col" style="float: left; width: 50%; padding: 5px;">
         <h4> Your egg is starting to cook...</h4>
         <img src="/README.MD-Resources/whole_egg.png" height="300" width="250" alt="Whole Egg">
     </div>
-    <div class="col">
+    <div class="col" style="float: left; width: 50%; padding: 5px;">
         <h4>Egg is warming up...</h4>
         <img src="/README.MD-Resources/25_percent.png" height="300" width="250" alt="Egg 25%">
     </div>
 <div>
 <div class="row">
-    <div class="col">
+    <div class="col" style="float: left; width: 50%; padding: 5px;">
         <h4>Egg is heating up...</h4>
         <img src="/README.MD-Resources/50_percent.png" height="300" width="250" alt="Egg 50%">
     </div>
-    <div class="col">
+    <div class="col" style="float: left; width: 50%; padding: 5px;">
         <h4>Egg is sweaty<h4>
         <img src="/README.MD-Resources/75_percent.png" height="300" width="250" alt="Egg 75%">
     </div>
@@ -31,17 +31,3 @@
     <img src="/README.MD-Resources/100_percent.png" height="300" width="250" alt="Egg done">
 <div>
     
-<style>
-.col {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
