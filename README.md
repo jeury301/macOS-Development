@@ -6,6 +6,8 @@
 
 > <p>The EggTimer allows you to see your favorite virtual egg on the making in a fun way! EggTimer is available for macOS. It was developed following the tutorial in the decription above. Set your favorite egg-timer, and ejoy the egg-making!</p>
 
+> <strong><a href="https://www.youtube.com/watch?v=ck0gbznoJQw" target="_blank" title="EggTimer Demo">Watch Demo!</a></strong>
+
 <h1> Features</h1>
 
 <h3> Egg Transitioning with visual effects: </h3>
